@@ -37,7 +37,7 @@ Acesse diretamente através do link [Cyclic App](https://blue-beautiful-elk.cycl
 - JavaScript
 - Express.js
 - Node.js
-- PostgresSQL
+- PostgreSQL
 - Cyclic
 - ElephantSQL
 
