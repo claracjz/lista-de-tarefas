@@ -29,6 +29,7 @@ const listarTarefas = async (req, res) => {
 
         return res.status(200).json(tarefas);
     } catch (error) {
+    
         return res.status(500).json({ mensagem: 'Erro ao listar tarefas.' });
     }
 };
